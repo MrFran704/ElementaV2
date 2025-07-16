@@ -1,0 +1,231 @@
+#: locale=es
+
+## Acción
+
+### URL
+PopupWebFrameBehaviour_1DAFAF2E_0F82_F885_4193_93D088445956.url = https://grupoeurosa.com/ar/producto/b3d9?color=B3DN9
+PopupWebFrameBehaviour_1DC2803C_0F8D_C884_4182_780D8AE1CF12.url = https://grupoeurosa.com/ar/producto/b3d9?color=B3DN9
+PopupWebFrameBehaviour_01D2B114_1358_8CCA_4186_A8B442FA1B46.url = https://grupoeurosa.com/ar/producto/b3d9?color=B3DN9
+PopupWebFrameBehaviour_1DC07037_0F8D_C883_4185_748420ADBF8F.url = https://grupoeurosa.com/ar/producto/b3d9?color=B3DN9
+PopupWebFrameBehaviour_1215C39C_0ED7_F6DD_4193_71EB8C204C06.url = https://grupoeurosa.com/ar/producto/b3d9?color=B3DN9
+PopupWebFrameBehaviour_1DAF7F33_0F82_F883_4171_5B5F53654794.url = https://grupoeurosa.com/ar/producto/b3d9?color=B3DN9
+PopupWebFrameBehaviour_2B91D33F_0FF3_77DC_41A5_8AC2F086783A.url = https://grupoeurosa.com/ar/producto/b3d9?color=B3DN9
+PopupWebFrameBehaviour_01D5C11A_1358_8CFF_41A4_B26C2EC2D3E4.url = https://grupoeurosa.com/ar/producto/b3d9?color=B3DN9
+PopupWebFrameBehaviour_177ED25C_0ED6_F65D_41A0_1BC6E099B9A2.url = https://grupoeurosa.com/ar/producto/cl150?color=CL150A
+PopupWebFrameBehaviour_2CA42F40_0FF6_EFA4_418B_FCE7C6F227F8.url = https://grupoeurosa.com/ar/producto/cl150?color=CL150N
+PopupWebFrameBehaviour_1DAB9F36_0F82_F885_41AD_5779B4828421.url = https://grupoeurosa.com/ar/producto/cl150?color=CL150T
+PopupWebFrameBehaviour_1DC3003E_0F8D_C884_41A7_102250237012.url = https://grupoeurosa.com/ar/producto/cl150?color=CL150T
+PopupWebFrameBehaviour_1DAD9F32_0F82_F89D_4186_E587B29F2739.url = https://grupoeurosa.com/ar/producto/cl150?color=CL150T
+PopupWebFrameBehaviour_01D6C11E_1358_8CF7_41B2_74CFC2B5387E.url = https://grupoeurosa.com/ar/producto/cl150?color=CL150T
+PopupWebFrameBehaviour_01D53119_1358_8CFD_41A2_27D9D0C3D7D4.url = https://grupoeurosa.com/ar/producto/cl150?color=CL150T
+PopupWebFrameBehaviour_1DC3203A_0F8D_C88D_4193_413F34C52096.url = https://grupoeurosa.com/ar/producto/cl150?color=CL150T
+PopupWebFrameBehaviour_14EAEF7D_0ED6_AE5F_4194_90E94C806975.url = https://grupoeurosa.com/ar/producto/cl40?color=CL40A
+PopupWebFrameBehaviour_2B71CF99_0FF3_AEA4_4196_170FC579359F.url = https://grupoeurosa.com/ar/producto/cl40?color=CL40A
+PopupWebFrameBehaviour_1DCFC036_0F8D_C885_41A3_D597147713FD.url = https://grupoeurosa.com/ar/producto/cl40?color=CL40G
+PopupWebFrameBehaviour_1DC2103D_0F8D_C884_4199_CF7B38BE5729.url = https://grupoeurosa.com/ar/producto/cl40?color=CL40G
+PopupWebFrameBehaviour_01D24114_1358_8CCA_418C_52C684E7410C.url = https://grupoeurosa.com/ar/producto/cl40?color=CL40GD
+PopupWebFrameBehaviour_01D4C11C_1358_8CFB_41AB_99CD027DABCA.url = https://grupoeurosa.com/ar/producto/cl40?color=CL40GD
+PopupWebFrameBehaviour_1DA05F2E_0F82_F885_41AC_DD7B09C92C16.url = https://grupoeurosa.com/ar/producto/cl40?color=CL40T
+PopupWebFrameBehaviour_1DAE7F34_0F82_F885_41A0_3C7ACAFB00E6.url = https://grupoeurosa.com/ar/producto/cl40?color=CL40T
+PopupWebFrameBehaviour_148CCCC6_0EF5_92AC_41A6_113B1D525EA6.url = https://grupoeurosa.com/ar/producto/gm?color=GMA
+PopupWebFrameBehaviour_10D82F65_0EF6_EE6F_41A6_F0D23EECA813.url = https://grupoeurosa.com/ar/producto/gm?color=GMA
+PopupWebFrameBehaviour_1DCE1034_0F8D_C885_41AE_6F7E79637593.url = https://grupoeurosa.com/ar/producto/gm?color=GMG
+PopupWebFrameBehaviour_1DC5F043_0F8D_C883_41A1_71E6A25BE90D.url = https://grupoeurosa.com/ar/producto/gm?color=GMG
+PopupWebFrameBehaviour_01EFF110_1358_8CCB_4194_D9E68A12BE3F.url = https://grupoeurosa.com/ar/producto/gm?color=GMGD
+PopupWebFrameBehaviour_01D6D123_1358_8CCD_419B_316E9D1222C0.url = https://grupoeurosa.com/ar/producto/gm?color=GMGD
+PopupWebFrameBehaviour_1DAB7F3A_0F82_F88D_41A9_54498380447E.url = https://grupoeurosa.com/ar/producto/gm?color=GMT
+PopupWebFrameBehaviour_1DA3CF2C_0F82_F885_41A6_7CF4D063A1C2.url = https://grupoeurosa.com/ar/producto/gm?color=GMT
+PopupWebFrameBehaviour_19329E38_0EF2_91E4_41A5_C88CCF4CC120.url = https://grupoeurosa.com/ar/producto/gs?color=GSA
+PopupWebFrameBehaviour_17DEE0FC_0EF2_925C_41A9_838DDEF1728C.url = https://grupoeurosa.com/ar/producto/gs?color=GSA
+PopupWebFrameBehaviour_1DC0D037_0F8D_C883_4199_B20A5AD71D1E.url = https://grupoeurosa.com/ar/producto/gs?color=GSG
+PopupWebFrameBehaviour_1DC49041_0F8D_C8FF_418F_454B5C016D03.url = https://grupoeurosa.com/ar/producto/gs?color=GSG
+PopupWebFrameBehaviour_01D46121_1358_8CCD_41A2_C4D13DAB2676.url = https://grupoeurosa.com/ar/producto/gs?color=GSGD
+PopupWebFrameBehaviour_01D3C115_1358_8CF5_41B2_481617FA5A51.url = https://grupoeurosa.com/ar/producto/gs?color=GSGD
+PopupWebFrameBehaviour_1DACEF39_0F82_F88F_41A7_24130F377FF0.url = https://grupoeurosa.com/ar/producto/gs?color=GST
+PopupWebFrameBehaviour_1DA01F2F_0F82_F883_41A9_85E0BF9832CB.url = https://grupoeurosa.com/ar/producto/gs?color=GST
+PopupWebFrameBehaviour_01D23117_1358_8CF5_41A5_4127A0552F5A.url = https://grupoeurosa.com/ar/producto/mastern
+PopupWebFrameBehaviour_1DAC2F3B_0F82_F883_4195_9F8E92A2CBA6.url = https://grupoeurosa.com/ar/producto/mastern
+PopupWebFrameBehaviour_1DC79043_0F8D_C883_41AB_63D2E276E8CA.url = https://grupoeurosa.com/ar/producto/mastern
+PopupWebFrameBehaviour_1DAF0F31_0F82_F89F_41A2_3D4129A0C687.url = https://grupoeurosa.com/ar/producto/mastern
+PopupWebFrameBehaviour_176E7BE1_0EF3_9664_41A6_CE2648218FD5.url = https://grupoeurosa.com/ar/producto/mastern
+PopupWebFrameBehaviour_14F33F1A_0ED3_AFA4_41AA_03ABA3E21D4D.url = https://grupoeurosa.com/ar/producto/mastern
+PopupWebFrameBehaviour_1DC0B039_0F8D_C88F_41A4_C3C334F39E3E.url = https://grupoeurosa.com/ar/producto/mastern
+PopupWebFrameBehaviour_01D6C124_1358_8CCB_419E_CEFF190A01D1.url = https://grupoeurosa.com/ar/producto/mastern
+PopupWebFrameBehaviour_28667A7E_0FF2_F65C_41AA_EA70558B8411.url = https://grupoeurosa.com/ar/producto/moa18?color=MOA18A
+PopupWebFrameBehaviour_134D87D6_0ED6_BEAC_4190_61A7544C67AF.url = https://grupoeurosa.com/ar/producto/moa18?color=MOA18A
+PopupWebFrameBehaviour_1DC58044_0F8D_C885_41A8_9FFFE58F54F9.url = https://grupoeurosa.com/ar/producto/moa18?color=MOA18G
+PopupWebFrameBehaviour_1DCEF035_0F8D_C887_41A2_C69BDCF6CE6D.url = https://grupoeurosa.com/ar/producto/moa18?color=MOA18G
+PopupWebFrameBehaviour_01D20111_1358_8CCD_41AD_C23B8F02FE49.url = https://grupoeurosa.com/ar/producto/moa18?color=MOA18GD
+PopupWebFrameBehaviour_01D93126_1358_8CD7_41B2_1E1FBC064056.url = https://grupoeurosa.com/ar/producto/moa18?color=MOA18GD
+PopupWebFrameBehaviour_1DABFF3C_0F82_F885_41A4_F66C6821AD85.url = https://grupoeurosa.com/ar/producto/moa18?color=MOA18T
+PopupWebFrameBehaviour_1DA14F2D_0F82_F887_41AD_EFA7EBEA0CA4.url = https://grupoeurosa.com/ar/producto/moa18?color=MOA18T
+PopupWebFrameBehaviour_1EE2E402_0F85_C87D_41A0_D0A4387B0572.url = https://grupoeurosa.com/ar/producto/mz18?color=MZ18A
+PopupWebFrameBehaviour_172C2232_0ED6_91E4_41A3_28CD35320D8A.url = https://grupoeurosa.com/ar/producto/mz18?color=MZ18A
+PopupWebFrameBehaviour_1DCF7036_0F8D_C885_4151_60B7FAAD04B2.url = https://grupoeurosa.com/ar/producto/mz18?color=MZ18G
+PopupWebFrameBehaviour_1DC3603F_0F8D_C884_419F_1EC7CF44A9DE.url = https://grupoeurosa.com/ar/producto/mz18?color=MZ18G
+PopupWebFrameBehaviour_01D0B112_1358_8CCF_41B1_78CD0B42841B.url = https://grupoeurosa.com/ar/producto/mz18?color=MZ18GD
+PopupWebFrameBehaviour_01D5F11F_1358_8CF5_41A9_6DF742824FD7.url = https://grupoeurosa.com/ar/producto/mz18?color=MZ18GD
+PopupWebFrameBehaviour_1DA0DF2D_0F82_F887_419D_66314D2A32C0.url = https://grupoeurosa.com/ar/producto/mz18?color=MZ18T
+PopupWebFrameBehaviour_1DAA0F37_0F82_F883_41A5_28AA26AB9912.url = https://grupoeurosa.com/ar/producto/mz18?color=MZ18T
+PopupWebFrameBehaviour_01DA7126_1358_8CD7_41B0_DC7143EFC17E.url = https://grupoeurosa.com/ar/producto/plc?color=PLCN
+PopupWebFrameBehaviour_2ECADD24_0FFD_B3EC_41AE_31EC52936B8E.url = https://grupoeurosa.com/ar/producto/plc?color=PLCN
+PopupWebFrameBehaviour_1DC4E045_0F8D_C887_41A1_BB1BFD7F04F3.url = https://grupoeurosa.com/ar/producto/plc?color=PLCN
+PopupWebFrameBehaviour_1DC41040_0F8D_C8FC_41AD_8550ED9EC290.url = https://grupoeurosa.com/ar/producto/plc?color=PLCN
+PopupWebFrameBehaviour_1DAD7F38_0F82_F88D_41A6_7F7BDB4866E0.url = https://grupoeurosa.com/ar/producto/plc?color=PLCN
+PopupWebFrameBehaviour_1312048C_0ED6_92BC_41A0_5C833CC79E19.url = https://grupoeurosa.com/ar/producto/plc?color=PLCN
+PopupWebFrameBehaviour_1DAB6F3C_0F82_F885_4175_7FB96AB3F63E.url = https://grupoeurosa.com/ar/producto/plc?color=PLCN
+PopupWebFrameBehaviour_01D4E120_1358_8CCB_41B0_904A770D968D.url = https://grupoeurosa.com/ar/producto/plc?color=PLCN
+PopupWebFrameBehaviour_2B3188B3_0FF6_92EB_41AD_A071F6FAE5E6.url = https://grupoeurosa.com/ar/producto/ple?color=PLEN
+PopupWebFrameBehaviour_01D93128_1358_8CDB_41A2_15CA62D139CB.url = https://grupoeurosa.com/ar/producto/ple?color=PLEN
+PopupWebFrameBehaviour_1DC2903E_0F8D_C884_4199_11FF0A66311B.url = https://grupoeurosa.com/ar/producto/ple?color=PLEN
+PopupWebFrameBehaviour_1DC58045_0F8D_C887_419D_50CD645144BC.url = https://grupoeurosa.com/ar/producto/ple?color=PLEN
+PopupWebFrameBehaviour_1DAAFF3D_0F82_F887_417C_93F1F7C10D7F.url = https://grupoeurosa.com/ar/producto/ple?color=PLEN
+PopupWebFrameBehaviour_1DADFF35_0F82_F887_41A4_812B8DF68678.url = https://grupoeurosa.com/ar/producto/ple?color=PLEN
+PopupWebFrameBehaviour_01D7611C_1358_8CFB_4198_5C42862C12E7.url = https://grupoeurosa.com/ar/producto/ple?color=PLEN
+PopupWebFrameBehaviour_17516784_0ED6_FEAC_419B_9552C4ECEEEF.url = https://grupoeurosa.com/ar/producto/ple?color=PLEN
+PopupWebFrameBehaviour_2E4F6E94_0FF5_AEAC_4195_2F18CC28A34A.url = https://grupoeurosa.com/ar/producto/sierra?color=SIERRAA
+PopupWebFrameBehaviour_161F4BDF_0ED6_965C_4194_FE940B3E4452.url = https://grupoeurosa.com/ar/producto/sierra?color=SIERRAA
+PopupWebFrameBehaviour_1DC36040_0F8D_C8FC_4186_B67DC95CAE98.url = https://grupoeurosa.com/ar/producto/sierra?color=SIERRAG
+PopupWebFrameBehaviour_1DC02038_0F8D_C88D_41A6_889EFE3E0365.url = https://grupoeurosa.com/ar/producto/sierra?color=SIERRAG
+PopupWebFrameBehaviour_01D3C117_1358_8CF5_41A1_2539C8E61E94.url = https://grupoeurosa.com/ar/producto/sierra?color=SIERRAGD
+PopupWebFrameBehaviour_01D46120_1358_8CCB_41B1_C0E12066C85D.url = https://grupoeurosa.com/ar/producto/sierra?color=SIERRAGD
+PopupWebFrameBehaviour_1DAF8F30_0F82_F89D_41A5_8C6C0C7E5C3E.url = https://grupoeurosa.com/ar/producto/sierra?color=SIERRAT
+PopupWebFrameBehaviour_1DAB6F37_0F82_F883_41AA_C63B39CBE503.url = https://grupoeurosa.com/ar/producto/sierra?color=SIERRAT
+PopupWebFrameBehaviour_106FBF6D_0ED2_AE7C_41AA_E0C2C01E2717.url = https://grupoeurosa.com/ar/producto/uz10?color=UZ10A
+PopupWebFrameBehaviour_12487095_0ED7_92AF_4197_8F7B4EBA1118.url = https://grupoeurosa.com/ar/producto/uz10?color=UZ10A
+PopupWebFrameBehaviour_01D5B118_1358_8CFB_41B0_A045582F3165.url = https://grupoeurosa.com/ar/producto/uz10?color=UZ10GD
+PopupWebFrameBehaviour_01D7D122_1358_8CCF_41A5_ACED8B287B5B.url = https://grupoeurosa.com/ar/producto/uz10?color=UZ10GD
+PopupWebFrameBehaviour_1DC63042_0F8D_C8FD_41A7_840D5014F102.url = https://grupoeurosa.com/ar/producto/uz10?color=UZ10T
+PopupWebFrameBehaviour_1DAC7F39_0F82_F88F_41A9_5D0C49D8B2C7.url = https://grupoeurosa.com/ar/producto/uz10?color=UZ10T
+PopupWebFrameBehaviour_1DC12039_0F8D_C88F_41A0_22F4EC350363.url = https://grupoeurosa.com/ar/producto/uz10?color=UZ10T
+PopupWebFrameBehaviour_1DAE8F31_0F82_F89F_418B_5FA513D74D8A.url = https://grupoeurosa.com/ar/producto/uz10?color=UZ10T
+PopupWebFrameBehaviour_2FEF1C34_0EF5_91ED_4195_C0E6FF81FB28.url = https://grupoeurosa.com/ar/producto/z10?color=Z10A
+PopupWebFrameBehaviour_2CA0294D_0EF5_73BC_41AD_2824A74B3C04.url = https://grupoeurosa.com/ar/producto/z10?color=Z10A
+PopupWebFrameBehaviour_01D2D119_1358_8CFD_414D_A1A997848F28.url = https://grupoeurosa.com/ar/producto/z10?color=Z10GD
+PopupWebFrameBehaviour_01D4311B_1358_8CFD_418C_51300AF377AD.url = https://grupoeurosa.com/ar/producto/z10?color=Z10GD
+PopupWebFrameBehaviour_1DAE0F32_0F82_F89D_41A2_55AD7C50ACAB.url = https://grupoeurosa.com/ar/producto/z10?color=Z10T
+PopupWebFrameBehaviour_1DAE1F34_0F82_F885_41A1_58992E3240C3.url = https://grupoeurosa.com/ar/producto/z10?color=Z10T
+PopupWebFrameBehaviour_1DC1903D_0F8D_C884_41A3_DD471726706B.url = https://grupoeurosa.com/ar/producto/z10?color=Z10T
+PopupWebFrameBehaviour_1DC2B03A_0F8D_C88D_41A6_8A2CE2E3A79F.url = https://grupoeurosa.com/ar/producto/z10?color=Z10T
+
+## Media
+
+### Título
+panorama_07CAF96E_09A6_D671_41A1_80E021D04639.label = Antracita
+panorama_06D7574A_09A6_7BB0_418A_625B0492CCAA.label = Giade
+panorama_06352E4E_09A5_CDB0_4199_9734D36011C6.label = GoldV1
+panorama_0684B88B_09A5_D6B7_41A0_E9E1AAFDAB7A.label = Terra
+
+## Skin
+
+### Imágen
+Image_4199AAC1_54D9_2CB9_41D0_0AE325D2EA25.url = skin/Image_4199AAC1_54D9_2CB9_41D0_0AE325D2EA25_es.png
+Image_46158093_54D9_3CD9_41C7_B6255B6F72EB.url = skin/Image_46158093_54D9_3CD9_41C7_B6255B6F72EB_es.png
+Image_4C1C068B_CB3E_594E_41D7_2297BC283FB6.url = skin/Image_4C1C068B_CB3E_594E_41D7_2297BC283FB6_es.png
+Image_4F33925B_54EA_DC49_41A1_0FB9FADEC888.url = skin/Image_4F33925B_54EA_DC49_41A1_0FB9FADEC888_es.png
+Image_5BBC5C65_43B5_5E07_41A6_1345CF1655E3.url = skin/Image_5BBC5C65_43B5_5E07_41A6_1345CF1655E3_es.png
+Image_5BBC5C65_43B5_5E07_41A6_1345CF1655E3_mobile.url = skin/Image_5BBC5C65_43B5_5E07_41A6_1345CF1655E3_mobile_es.png
+Image_656C8BB8_43F5_5A0E_41D0_24500B5AD9DD.url = skin/Image_656C8BB8_43F5_5A0E_41D0_24500B5AD9DD_es.png
+Image_656C8BB8_43F5_5A0E_41D0_24500B5AD9DD_mobile.url = skin/Image_656C8BB8_43F5_5A0E_41D0_24500B5AD9DD_mobile_es.png
+Image_69F8A32C_438D_CA06_41A6_D573BBB991DE.url = skin/Image_69F8A32C_438D_CA06_41A6_D573BBB991DE_es.png
+Image_69F8A32C_438D_CA06_41A6_D573BBB991DE_mobile.url = skin/Image_69F8A32C_438D_CA06_41A6_D573BBB991DE_mobile_es.png
+Image_6EB4A155_4395_4606_41A1_0C9E15D03A38.url = skin/Image_6EB4A155_4395_4606_41A1_0C9E15D03A38_es.png
+Image_6EB4A155_4395_4606_41A1_0C9E15D03A38_mobile.url = skin/Image_6EB4A155_4395_4606_41A1_0C9E15D03A38_mobile_es.png
+Image_7556058E_5516_A6C5_41D4_DF28DFB6EA06.url = skin/Image_7556058E_5516_A6C5_41D4_DF28DFB6EA06_es.png
+Image_854BA266_5516_A245_41C9_63F8B31E2289.url = skin/Image_854BA266_5516_A245_41C9_63F8B31E2289_es.png
+Image_85FFCBB2_5512_A2DD_41D3_C92E4491CC7F.url = skin/Image_85FFCBB2_5512_A2DD_41D3_C92E4491CC7F_es.png
+Image_8720A393_5512_A2DC_41D2_110B0C6A3679.url = skin/Image_8720A393_5512_A2DC_41D2_110B0C6A3679_es.png
+Image_874513C2_5513_E2BD_41BC_49786838DCD2.url = skin/Image_874513C2_5513_E2BD_41BC_49786838DCD2_es.png
+Image_88683FDA_550E_A24D_41C3_F8BC34188B4C.url = skin/Image_88683FDA_550E_A24D_41C3_F8BC34188B4C_es.png
+Image_894F8A8B_5512_62C3_41D3_D777A07878F9.url = skin/Image_894F8A8B_5512_62C3_41D3_D777A07878F9_es.png
+Image_8C51D9F4_550D_EE45_41CA_715E8DFD21E1.url = skin/Image_8C51D9F4_550D_EE45_41CA_715E8DFD21E1_es.png
+Image_9A79D7B3_5512_A2C3_41D0_2C3A266056A4.url = skin/Image_9A79D7B3_5512_A2C3_41D0_2C3A266056A4_es.png
+Image_B8B085A4_5536_66C5_41C3_16AACB0D5C31.url = skin/Image_B8B085A4_5536_66C5_41C3_16AACB0D5C31_es.png
+Image_B8B115A6_5536_66C5_41C4_0C0F0552AD46.url = skin/Image_B8B115A6_5536_66C5_41C4_0C0F0552AD46_es.png
+Image_B8B125A5_5536_66C7_41D5_1B41BC4A02C1.url = skin/Image_B8B125A5_5536_66C7_41D5_1B41BC4A02C1_es.png
+Image_B8B155A5_5536_66C7_4177_E692778713F2.url = skin/Image_B8B155A5_5536_66C7_4177_E692778713F2_es.png
+Image_B8B195A5_5536_66C7_41B1_903DECF64C26.url = skin/Image_B8B195A5_5536_66C7_41B1_903DECF64C26_es.png
+Image_B8B1A5A5_5536_66C7_41D1_62507513677B.url = skin/Image_B8B1A5A5_5536_66C7_41D1_62507513677B_es.png
+Image_B8B1F5A4_5536_66C5_418C_75AAAF9BB0B1.url = skin/Image_B8B1F5A4_5536_66C5_418C_75AAAF9BB0B1_es.png
+Image_B8B2C5A6_5536_66C5_41D3_F7CF87A85636.url = skin/Image_B8B2C5A6_5536_66C5_41D3_F7CF87A85636_es.png
+Image_B8F87A77_5537_E243_41C3_A658813E679A.url = skin/Image_B8F87A77_5537_E243_41C3_A658813E679A_es.png
+Image_B8F8BA77_5537_E243_41C6_A4AD05436705.url = skin/Image_B8F8BA77_5537_E243_41C6_A4AD05436705_es.png
+Image_B8F8DA77_5537_E243_41AF_E442A7DCC09C.url = skin/Image_B8F8DA77_5537_E243_41AF_E442A7DCC09C_es.png
+Image_B8F8EA77_5537_E243_41D3_5D1557B71530.url = skin/Image_B8F8EA77_5537_E243_41D3_5D1557B71530_es.png
+Image_B8F9EA76_5537_E245_41C7_D1803A313D4F.url = skin/Image_B8F9EA76_5537_E245_41C7_D1803A313D4F_es.png
+Image_B8FB0A78_5537_E24D_41BC_A6CE878E76D4.url = skin/Image_B8FB0A78_5537_E24D_41BC_A6CE878E76D4_es.png
+Image_B8FB5A78_5537_E24D_41D4_D1EE8FD17C3A.url = skin/Image_B8FB5A78_5537_E24D_41D4_D1EE8FD17C3A_es.png
+Image_B8FB7A78_5537_E24D_41D2_EB6343388001.url = skin/Image_B8FB7A78_5537_E24D_41D2_EB6343388001_es.png
+Image_BFDC1DEE_5536_A644_41B1_234DB8E511FE.url = skin/Image_BFDC1DEE_5536_A644_41B1_234DB8E511FE_es.png
+Image_BFDC4DEE_5536_A644_41CC_957E6E9C2009.url = skin/Image_BFDC4DEE_5536_A644_41CC_957E6E9C2009_es.png
+Image_BFDCADEE_5536_A644_41B0_2AE6DC2046D1.url = skin/Image_BFDCADEE_5536_A644_41B0_2AE6DC2046D1_es.png
+Image_BFDD3DF0_5536_A65C_41C5_D4DB6233EA7D.url = skin/Image_BFDD3DF0_5536_A65C_41C5_D4DB6233EA7D_es.png
+Image_BFDD8DEF_5536_A643_41D4_4AAEB9CEAAF9.url = skin/Image_BFDD8DEF_5536_A643_41D4_4AAEB9CEAAF9_es.png
+Image_BFDD9DEF_5536_A643_41CE_D03DE43E8AA4.url = skin/Image_BFDD9DEF_5536_A643_41CE_D03DE43E8AA4_es.png
+Image_BFDDDDEF_5536_A643_41CB_81FE5A12E935.url = skin/Image_BFDDDDEF_5536_A643_41CB_81FE5A12E935_es.png
+Image_BFDDEDEF_5536_A643_41D4_89B1E9E020FE.url = skin/Image_BFDDEDEF_5536_A643_41D4_89B1E9E020FE_es.png
+Image_D96692C0_5573_A2BD_41B9_5B1948E6E5E4.url = skin/Image_D96692C0_5573_A2BD_41B9_5B1948E6E5E4_es.png
+Image_D96692C0_5573_A2BD_41B9_5B1948E6E5E4_mobile.url = skin/Image_D96692C0_5573_A2BD_41B9_5B1948E6E5E4_mobile_es.png
+Image_DA7B1617_5577_E5C4_419B_50D9DDA19762.url = skin/Image_DA7B1617_5577_E5C4_419B_50D9DDA19762_es.png
+Image_DA7B1617_5577_E5C4_419B_50D9DDA19762_mobile.url = skin/Image_DA7B1617_5577_E5C4_419B_50D9DDA19762_mobile_es.png
+
+### Texto Multilínea
+HTMLText_8AE97286_CB16_7946_41DB_9EB8C064839B_mobile.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:center;font-size:1.4120667522464716vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:1.41vh;font-family:Gotham Thin;">Seleccione estilo</SPAN></SPAN></DIV></div>
+HTMLText_F56BF5ED_CB16_DACA_41D8_508B6E42AF2E_mobile.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:center;font-size:1.4120667522464716vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:1.41vh;font-family:Gotham Thin;">Seleccione estilo</SPAN></SPAN></DIV></div>
+HTMLText_F542DE94_CB16_495B_41E0_FC5E82F97DC6_mobile.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:center;font-size:1.4120667522464716vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:1.41vh;font-family:Gotham Thin;">Seleccione estilo</SPAN></SPAN></DIV></div>
+HTMLText_7F0CDF20_449D_5A3D_41B0_F27CA0C0469E_mobile.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:center;font-size:1.4120667522464716vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:1.41vh;font-family:Gotham Thin;">Seleccione estilo</SPAN></SPAN></DIV></div>
+HTMLText_7F0CDF20_449D_5A3D_41B0_F27CA0C0469E.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:center;font-size:1.4814814814814825vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:1.48vh;font-family:Gotham Thin;">Seleccione color</SPAN></SPAN></DIV></div>
+HTMLText_208E4193_448C_C602_41C8_E3858AE39C52_mobile.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:center;font-size:1.4814814814814825vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:1.48vh;font-family:Gotham Medium;">Soft</SPAN></SPAN></DIV></div>
+HTMLText_8AE91286_CB16_7946_41E6_EC59E32A6EF4_mobile.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:center;font-size:1.4814814814814825vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:1.48vh;font-family:Gotham Medium;">Soft</SPAN></SPAN></DIV></div>
+HTMLText_F542FE94_CB16_495B_41DC_0EDF2BA26AFE_mobile.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:center;font-size:1.4814814814814825vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:1.48vh;font-family:Gotham Medium;">Soft</SPAN></SPAN></DIV></div>
+HTMLText_71862147_C1B8_11C3_41E0_D01C44B15EB0.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:center;font-size:1.4814814814814825vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:1.48vh;font-family:Gotham Medium;">Soft</SPAN></SPAN></DIV></div>
+HTMLText_F56BD5ED_CB16_DACA_41DF_986F393FADC5_mobile.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:center;font-size:1.4814814814814825vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:1.48vh;font-family:Gotham Medium;">Soft</SPAN></SPAN></DIV></div>
+HTMLText_208E4193_448C_C602_41C8_E3858AE39C52.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:center;font-size:1.4814814814814825vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:1.48vh;font-family:Gotham Medium;">Soft</SPAN></SPAN></DIV></div>
+HTMLText_68DBBE0C_C1B8_7345_41C7_D770332E5CBB.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:center;font-size:1.4814814814814825vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:1.48vh;font-family:Gotham Medium;">Soft</SPAN></SPAN></DIV></div>
+HTMLText_6166F57A_C1B8_11CD_41D8_354F24A31DDC.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:center;font-size:1.4814814814814825vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:1.48vh;font-family:Gotham Medium;">Soft</SPAN></SPAN></DIV></div>
+HTMLText_F56B15ED_CB16_DACA_41D9_B12E02410928_mobile.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:center;font-size:1.4814814814814825vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:1.48vh;font-family:Gotham Medium;">Urban</SPAN></SPAN></DIV></div>
+HTMLText_68DB9E0B_C1B8_7343_41DD_7822EC212CF5.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:center;font-size:1.4814814814814825vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:1.48vh;font-family:Gotham Medium;">Urban</SPAN></SPAN></DIV></div>
+HTMLText_71861147_C1B8_11C3_41D2_4EB930A225BB.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:center;font-size:1.4814814814814825vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:1.48vh;font-family:Gotham Medium;">Urban</SPAN></SPAN></DIV></div>
+HTMLText_F542BE94_CB16_495B_41E3_58E42076EFBD_mobile.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:center;font-size:1.4814814814814825vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:1.48vh;font-family:Gotham Medium;">Urban</SPAN></SPAN></DIV></div>
+HTMLText_20546BD4_448C_BA05_41C3_8DE841DA5874.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:center;font-size:1.4814814814814825vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:1.48vh;font-family:Gotham Medium;">Urban</SPAN></SPAN></DIV></div>
+HTMLText_61661579_C1B8_11CF_41E0_63C77CEF114F.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:center;font-size:1.4814814814814825vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:1.48vh;font-family:Gotham Medium;">Urban</SPAN></SPAN></DIV></div>
+HTMLText_8AE8D285_CB16_793A_41C6_7DCB26366C84_mobile.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:center;font-size:1.4814814814814825vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:1.48vh;font-family:Gotham Medium;">Urban</SPAN></SPAN></DIV></div>
+HTMLText_20546BD4_448C_BA05_41C3_8DE841DA5874_mobile.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:center;font-size:1.4814814814814825vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:1.48vh;font-family:Gotham Medium;">Urban</SPAN></SPAN></DIV></div>
+HTMLText_63347866_43F7_4602_41B0_4A59AFF521C8.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:center;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:16px;font-family:Gotham Thin;">Seleccione color</SPAN></SPAN></DIV></div>
+HTMLText_5577746E_55F2_6645_41CD_791E48C109D5.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:center;font-size:12px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:12px;font-family:Gotham Medium;">Línea </SPAN></SPAN></DIV><DIV STYLE="text-align:center;font-size:12px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:12px;font-family:Gotham Medium;">Elementa</SPAN></SPAN></DIV></div>
+HTMLText_55789230_55FE_BDDD_41B0_D9EE4EB9E263.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:center;font-size:12px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:12px;font-family:Gotham Medium;">Paseo</SPAN></SPAN></DIV><DIV STYLE="text-align:center;font-size:12px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:12px;font-family:Gotham Medium;">Virtual</SPAN></SPAN></DIV></div>
+HTMLText_5B7831E7_43BB_C602_41CF_6E1E7AA1234F.html = <div style="text-align:left; color:#000; "><p STYLE="margin:0; line-height:16px;"><BR STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:12px;font-family:Arial, Helvetica, sans-serif;"/></p><p STYLE="margin:0; line-height:16px;"><BR STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:12px;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:center;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:16px;font-family:Gotham Thin;">Seleccione ambiente</SPAN></SPAN></DIV></div>
+HTMLText_63347866_43F7_4602_41B0_4A59AFF521C8_mobile.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:center;font-size:5.12px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:5.12px;font-family:Gotham Thin;">Seleccione color</SPAN></SPAN></DIV></div>
+HTMLText_5577746E_55F2_6645_41CD_791E48C109D5_mobile.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:center;font-size:3.84px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:3.84px;font-family:Gotham Medium;">Línea </SPAN></SPAN></DIV><DIV STYLE="text-align:center;font-size:3.84px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:3.84px;font-family:Gotham Medium;">Elementa</SPAN></SPAN></DIV></div>
+HTMLText_55789230_55FE_BDDD_41B0_D9EE4EB9E263_mobile.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:center;font-size:3.84px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:3.84px;font-family:Gotham Medium;">Paseo</SPAN></SPAN></DIV><DIV STYLE="text-align:center;font-size:3.84px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:3.84px;font-family:Gotham Medium;">Virtual</SPAN></SPAN></DIV></div>
+HTMLText_5B7831E7_43BB_C602_41CF_6E1E7AA1234F_mobile.html = <div style="text-align:left; color:#000; "><p STYLE="margin:0; line-height:5.12px;"><BR STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:3.84px;font-family:Arial, Helvetica, sans-serif;"/></p><p STYLE="margin:0; line-height:5.12px;"><BR STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:3.84px;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:center;font-size:5.12px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:5.12px;font-family:Gotham Thin;">Seleccione ambiente</SPAN></SPAN></DIV></div>
+HTMLText_191F987B_44BD_4602_41C8_BBD0D28A1CDF_mobile.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:1.9255455712451863vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:1.93vh;font-family:Gotham Light;">Estilo Urban</SPAN></SPAN></DIV></div>
+HTMLText_1F14645E_09AE_DE51_418F_D907104F1C1E.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:3.30760749724366vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:3.31vh;font-family:Gotham Light;">Antracita</SPAN></SPAN></DIV></div>
+HTMLText_1F3F4D41_09AE_CFB3_4183_965AFF364BE0.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:3.30760749724366vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:3.31vh;font-family:Gotham Light;">Giade</SPAN></SPAN></DIV></div>
+HTMLText_191F987B_44BD_4602_41C8_BBD0D28A1CDF.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:3.30760749724366vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:3.31vh;font-family:Gotham Light;">Terra</SPAN></SPAN></DIV></div>
+HTMLText_182D50A2_44B4_C602_41B2_60400B2DB24C_mobile.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:2.1822849807445457vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:2.18vh;font-family:Gotham Medium;">Paseo Virtual | Grupo Euro</SPAN></SPAN></DIV></div>
+HTMLText_182D50A2_44B4_C602_41B2_60400B2DB24C.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:4.097222222222228vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:4.1vh;font-family:Gotham Medium;">Colección Elementa | Grupo Euro</SPAN></SPAN></DIV></div>
+HTMLText_1E96318B_44BD_C602_41C7_3E19B65FE8B2_mobile.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:1.9255455712451863vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:1.93vh;font-family:Gotham Light;">Estilo Soft</SPAN></SPAN></DIV></div>
+HTMLText_1E96318B_44BD_C602_41C7_3E19B65FE8B2.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:3.30760749724366vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:3.31vh;font-family:Gotham Light;">Golden</SPAN></SPAN></DIV></div>
+HTMLText_FB15FE37_5576_A5C3_41BF_B6673F4CA673.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:35px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:35px;font-family:Gotham Light;">Antracita</SPAN></SPAN></DIV></div>
+HTMLText_F9168A27_5576_EDC3_41C2_66F038A7CFC8.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:35px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:35px;font-family:Gotham Light;">Giade</SPAN></SPAN></DIV></div>
+HTMLText_F2B208CF_5576_AE43_41CA_3B610D53B99D.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:35px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:35px;font-family:Gotham Light;">Golden</SPAN></SPAN></DIV></div>
+HTMLText_FF4A9987_5576_EEC3_41A6_F8E9B72189D6.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:35px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:35px;font-family:Gotham Light;">Terra</SPAN></SPAN></DIV></div>
+HTMLText_5712D6EC_4D8E_3498_41D1_D88806277617.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:16px;font-family:Gotham Medium;">Antracita</SPAN></SPAN></DIV></div>
+HTMLText_57052B51_4D8E_1D88_41CB_CD327DEC437B.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:16px;font-family:Gotham Medium;">Giade</SPAN></SPAN></DIV></div>
+HTMLText_5885E08B_4CB6_EC99_41D1_B76B06426805.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:16px;font-family:Gotham Medium;">Golden</SPAN></SPAN></DIV></div>
+HTMLText_54FE9EF4_4DB6_148F_41C3_D5EF154247FF.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:16px;font-family:Gotham Medium;">Terra</SPAN></SPAN></DIV></div>
+HTMLText_44659CBC_54DA_E4CF_41AC_86BC7012B0B3.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:59px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:59px;font-family:Gotham Medium;">Línea Elementa | Grupo Euro</SPAN></SPAN></DIV></div>
+HTMLText_FB15FE37_5576_A5C3_41BF_B6673F4CA673_mobile.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:11.2px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:11.2px;font-family:Gotham Light;">Antracita</SPAN></SPAN></DIV></div>
+HTMLText_F9168A27_5576_EDC3_41C2_66F038A7CFC8_mobile.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:11.2px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:11.2px;font-family:Gotham Light;">Giade</SPAN></SPAN></DIV></div>
+HTMLText_F2B208CF_5576_AE43_41CA_3B610D53B99D_mobile.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:11.2px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:11.2px;font-family:Gotham Light;">Golden</SPAN></SPAN></DIV></div>
+HTMLText_FF4A9987_5576_EEC3_41A6_F8E9B72189D6_mobile.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:11.2px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:11.2px;font-family:Gotham Light;">Terra</SPAN></SPAN></DIV></div>
+HTMLText_44659CBC_54DA_E4CF_41AC_86BC7012B0B3_mobile.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:18.88px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:18.88px;font-family:Gotham Medium;">Línea Elementa | Grupo Euro</SPAN></SPAN></DIV></div>
+HTMLText_42B0B1D3_CB36_7ADE_41E3_AE32DABF4447.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:right;font-size:4.450149764655542vw;"><SPAN STYLE="display:inline-block; letter-spacing:0vw; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:4.45vw;font-family:Gotham;">Presione </SPAN><SPAN STYLE="color:#ffffff;font-size:4.45vw;font-family:Gotham Medium;">Maximizar pantalla </SPAN><SPAN STYLE="color:#ffffff;font-size:4.45vw;font-family:Gotham;">y luego el ícono de</SPAN><SPAN STYLE="color:#ffffff;font-size:4.45vw;font-family:Gotham Medium;"> Play</SPAN><SPAN STYLE="color:#ffffff;font-size:4.45vw;font-family:Gotham;"> en el centro de la pantalla.</SPAN></SPAN></DIV></div>
+
+## Tour
+
+### Descripción
+
+### Título
+tour.name = Línea Elementa
